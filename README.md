@@ -8,7 +8,7 @@
 ```mkdir wm-stuff && cd wm-stuff```\
 ```git clone git://git.suckless.org/dwm```\
 ```cd dwm && sudo make clean install && cd ..```\
-```git clone git://git.suckless.org/st```\`
+```git clone git://git.suckless.org/st```\
 ```cd st && sudo make clean install && cd ..```\
 -> after this ```cd``` and ```startx```\
 -> open terminal (st) using alt+shift+enter\
