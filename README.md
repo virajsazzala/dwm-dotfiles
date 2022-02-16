@@ -2,7 +2,7 @@
 
 <br> this repo is still under-configuration <br/>
 -dependencies\
-```sudo pacman -S sxiv mpv neofetch git wget``` <br\>
+```sudo pacman -S sxiv mpv neofetch git wget```\
 
 -git clone stuff\
 ```mkdir wm-stuff && cd wm-stuff```\
