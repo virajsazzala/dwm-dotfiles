@@ -17,3 +17,7 @@
 -> after that press alt+shift+q to quit restart dwm\
 -> ```startx``` again
 
+-DWM customisation\
+```sudo pacman -S alsa-utils pamixer playerctl ttf-font-awesome```
+
+
