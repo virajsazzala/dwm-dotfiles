@@ -11,6 +11,7 @@
 ```cd st && sudo make && sudo make install && cd ..```\
 ```cd dmenu && sudo make && sudo make install && cd ..```\
 ```cd dwmblocks && sudo make && sudo make install && cd ..```\
+```cd && mkdir .local && cd .local/bin && cp ~/git-stuff/dwm-dotfiles/scripts .```\
 -> ```startx``` to enter dwm
 
 
