@@ -12,10 +12,14 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "monospace:size=13", "FontAwesome:size=13" };
 static const char dmenufont[]       = "monospace:size=12";
-static const char col_gray1[]       = "#222222";
-static const char col_gray2[]       = "#444444";
+/*bar background*/
+static const char col_gray1[]       = "#0a0200";/*222222*/
+/*bar border*/
+static const char col_gray2[]       = "#0a0200";/*444444*/
+/*bar text*/
 static const char col_gray3[]       = "#bbbbbb";
 static const char col_gray4[]       = "#eeeeee";
+/*dmenu and the active tag*/
 static const char col_cyan[]        = "#763442";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
