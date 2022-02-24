@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "you are exvynai, you are real!"
+echo "I am exvynai, kneel before me!"
