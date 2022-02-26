@@ -1,0 +1,24 @@
+#pre install
+>clone repo
+>enter repo
+>chmod +x install.sh
+>execute install.sh
+
+#during installation
+>go back to home dir
+>install packages
+>go back to dwm dir
+
+>go to /opt
+>install git
+>go back to dwm dir
+
+>cp xinitrc and bashrc to home
+
+>create pix dir and cp wallpaper
+
+>copying scripts
+
+>making req dirs
+
+>done
