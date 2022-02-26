@@ -46,7 +46,7 @@ cp ~/dwm-dotfiles/girl-red-mask.jpg ~/pix
 echo "done copying wallpaper!"
 sleep 5
 
-cd dwm-dotfiles
+cd ~/dwm-dotfiles
 
 #cp scripts to .local/bin
 cd scripts
