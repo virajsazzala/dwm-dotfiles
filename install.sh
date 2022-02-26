@@ -30,6 +30,10 @@ makepkg -si
 echo "yay installed!"
 sleep 5
 
+#yay-packages
+cd
+yay -S ani-cli
+
 cd ~/dwm-dotfiles
 
 #get xinitrc and bashrc
