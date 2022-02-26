@@ -48,9 +48,13 @@ sleep 5
 
 cd ~/dwm-dotfiles
 
+cd
+cd .local
+mkdir bin
+cd ~/dwm-dotfiles
+
 #cp scripts to .local/bin
 cd scripts
-mkdir ~/.local/bin 
 cp battery brightness.sh internet time.sh volume.sh iam.sh ~/.local/bin
 cd ..
 
