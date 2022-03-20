@@ -9,7 +9,7 @@ read -p "Enter your username: " username
 cd
 sudo pacman -Syy
 sudo pacman -Syu
-sudo pacman -S --needed base-devel vim xfce4-terminal scrot nitrogen sxiv mpv pcmanfm discord ttf-font-awesome ttf-joypixels python-pywal obs-studio xorg-server xorg-xinit xorg-xkill xorg-xsetroot xorg-xbacklight xorg-xprop noto-fonts noto-fonts-emoji noto-fonts-cjk ttf-jetbrains-mono zathura zathura-pdf-mupdf ffmpeg imagemagick fzf man-db xwallpaper unclutter xclip maim zip unzip unrar p7zip xdotool papirus-icon-theme brightnessctl dosfstools ntfs-3g sxhkd pulseaudio arc-gtk-theme rsync pamixer dash xcompmgr libnotify dunst slock jq dhcpcd networkmanager xdg-user-dirs picom 
+sudo pacman -S --needed base-devel tree emacs vim xfce4-terminal scrot nitrogen sxiv mpv pcmanfm discord ttf-font-awesome ttf-joypixels python-pywal obs-studio xorg-server xorg-xinit xorg-xkill xorg-xsetroot xorg-xbacklight xorg-xprop noto-fonts noto-fonts-emoji noto-fonts-cjk ttf-jetbrains-mono zathura zathura-pdf-mupdf ffmpeg imagemagick fzf man-db xwallpaper unclutter xclip maim zip unzip unrar p7zip xdotool papirus-icon-theme brightnessctl dosfstools ntfs-3g sxhkd pulseaudio arc-gtk-theme rsync pamixer dash xcompmgr libnotify dunst slock jq dhcpcd networkmanager xdg-user-dirs picom 
 
 echo "packages installed!"
 sleep 3
