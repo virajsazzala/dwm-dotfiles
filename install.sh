@@ -48,7 +48,7 @@ echo "done getting wallpapers!"
 sleep 3
 
 #move scripts
-mkdir -p ~/.home/bin
+mkdir -p ~/.local/bin
 cd ~/dwm-dotfiles/scripts
 cp battery internet time.sh volume.sh -t ~/.local/bin
 cd ~/.local/bin
